@@ -75,10 +75,11 @@ body {
 @media (max-width: 800px) {
     .grid-container {
         display: grid;
+        min-height: 80vh;
         justify-content: center;
         align-content: center;
-        grid-template-columns: repeat(4, 80px);
-        grid-template-rows: minmax(80px, auto) repeat(5, 80px);
+        grid-template-columns: repeat(4, 90px);
+        grid-template-rows: minmax(90px, auto) repeat(5, 90px);
     }
 
     .grid-container>button {
