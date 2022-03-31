@@ -3,9 +3,8 @@
 
 <p align="left">
  <a href="#status">Status</a> •
- <a href="#roadmap">Como acessar</a> • 
+ <a href="#acessar">Como acessar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenca">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -16,6 +15,9 @@
   🚀 Finalizado 🚀
 </h4>
 
+<h1 align="left" id="acessar">Como acessar</h1>
+Para poder usar a calculadora é necessário ter algum navegador instalado em seu dispositivo e acessar o seguinte link: https://wallissonmart.github.io/calculadora-js/
+
 <h1 align="left" id="tecnologias">Tecnologias</h1>
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -25,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-<h1 align="left" id="tecnologias">Licença</h1>
+<h1 align="left" id="licenca">Licença</h1>
 
 MIT License
 
