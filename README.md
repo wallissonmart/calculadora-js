@@ -6,27 +6,24 @@
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#licenca">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
-
+---
 <h1 align="left" id="status">Status</h1>
 
 <h4 align="left"> 
   🚀 Finalizado 🚀
 </h4>
-
-
+---
 <h1 align="left" id="tecnologias">Tecnologias</h1>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [JavaScript](https://www.typescriptlang.org/)
-- [CSS](https://www.typescriptlang.org/)
-
-### Autor
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 ---
-
+<h1 align="left" id="autor">Autor</h1>
 <a href="https://github.com/wallissonmart">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93344198?s=400&u=efc1c28e0cfb7b7e29bdf3ac50a79d0ddcf8b467&v=4" width="100px;" alt=""/>
  <br />
