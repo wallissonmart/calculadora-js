@@ -1,21 +1,23 @@
-<h1 align="center">Calculadora</h1>
-<p align="center">Calculadora simples desenvolvida com JavaScript puro.</p>
+<h1 align="left">Calculadora</h1>
+<p align="left">Calculadora simples desenvolvida com JavaScript puro.</p>
 
-<p align="center">
- <a href="#objetivo">Status</a> •
+<p align="left">
+ <a href="#status">Status</a> •
  <a href="#roadmap">Roadmap</a> • 
- <a href="#ferramentas">Tecnologias</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+<h1 align="left" id="status">Status</h1>
+
+<h4 align="left"> 
+  🚀 Finalizado 🚀
 </h4>
 
 
-<h1 align="center" id="ferramentas">Ferramentas</h1>
+<h1 align="left" id="tecnologias">Tecnologias</h1>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
