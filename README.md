@@ -28,8 +28,7 @@ Para poder usar a calculadora é necessário ter algum navegador instalado em se
  <br/>
  <sub><b>Wallisson Martins</b></sub></a> <a href=" https://github.com/wallissonmart" title=GitHub"></a>
 <br/>
-Entre em contato!
-<br/>
+Entre em contato:
  
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/) 
 [![Gmail Badge](https://img.shields.io/badge/-wallissonmartins37@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallissonmartins37@gmail.com)](mailto:wallissonmartins37@gmail.com)
