@@ -1,7 +1,7 @@
 <h1 align="left">Calculadora 🔢</h1>
 <p align="left">Calculadora simples desenvolvida com JavaScript e CSS puro.</p>
 
-<p align="left"
+<p align="left">
  <a href="#status">Status</a> •
  <a href="#acessar">Como acessar</a> •
  <a href="#tecnologias">Tecnologias</a> •
