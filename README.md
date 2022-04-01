@@ -3,41 +3,33 @@
 
 <p align="left">
  <a href="#status">Status</a> •
- <a href="#acessar">Como acessar</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenca">Licença</a> • 
+ <a href="#acessar">Como acessar</a> •
+ <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
 </p>
 
-<h1 align="left" id="status">Status</h1>
+<h1 align="left" id="status">❔ Status</h1>
 
-<h4 align="left"> 
-  🚀 Finalizado 🚀
-</h4>
+<h3 align="left"> 
+  ✔️ Finalizado ✔️
+</h3>
 
-<h1 align="left" id="acessar">Como acessar</h1>
+<h1 align="left" id="acessar">👆 Como acessar</h1>
 Para poder usar a calculadora é necessário ter algum navegador instalado em seu dispositivo e acessar o seguinte link: https://wallissonmart.github.io/calculadora-js/
 
-<h1 align="left" id="tecnologias">Tecnologias</h1>
-
-As seguintes ferramentas foram usadas na construção do projeto:
+<h1 align="left" id="tecnologias">🖥️ Técnicas e tecnologias utilizadas</h1>
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-
-
-<h1 align="left" id="licenca">Licença</h1>
-
-###
-
-<h1 align="left" id="autor">Autor</h1>
+<h1 align="left" id="autor">✍️ Autor</h1>
 <a href="https://github.com/wallissonmart">
- <img style="border-radius: 60%;" src="https://avatars.githubusercontent.com/u/93344198?s=400&u=efc1c28e0cfb7b7e29bdf3ac50a79d0ddcf8b467&v=4" width="100px;" alt=""/>
+ |<img src="https://avatars.githubusercontent.com/u/93344198?s=400&u=efc1c28e0cfb7b7e29bdf3ac50a79d0ddcf8b467&v=4" width="100px;" alt=""/>|
+ | :---: |
  <br/>
  <sub><b>Wallisson Martins</b></sub></a> <a href=" https://github.com/wallissonmart" title=GitHub">🚀</a>
 
-Feito por Wallisson Martins 👋🏽
+Feito por Wallisson Martins
 <br/>
 Entre em contato!
 
