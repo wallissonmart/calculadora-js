@@ -26,7 +26,7 @@ Para poder usar a calculadora é necessário ter algum navegador instalado em se
 <a href="https://github.com/wallissonmart">
  <img src="https://avatars.githubusercontent.com/u/93344198?s=400&u=efc1c28e0cfb7b7e29bdf3ac50a79d0ddcf8b467&v=4" width="100px;" alt=""/>
  <br/>
- <sub><b>Wallisson Martins</b></sub></a> <a href=" https://github.com/wallissonmart" title=GitHub"></a>
+ <sub><b>Wallisson Martins</b></sub></a>
 <br/>
 Entre em contato:
  
