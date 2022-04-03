@@ -15,7 +15,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para poder usar a calculadora é necessário ter algum navegador instalado em seu dispositivo e acessar o seguinte link: https://wallissonmart.github.io/calculadora-js/
+Para poder usar a calculadora basta clicar no seguinte link: https://wallissonmart.github.io/calculadora-js/
 
 <h1 align="left" id="tecnologias">🛠️ Técnicas e tecnologias utilizadas</h1>
 
