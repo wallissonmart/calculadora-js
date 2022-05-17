@@ -1,5 +1,5 @@
 <h1 align="left">Calculadora 🔢</h1>
-<p align="left">Calculadora simples desenvolvida com JavaScript e CSS puro.</p>
+<p align="left">Calculadora simples desenvolvida com JavaScript e CSS puro</p>
 
 <p align="left"> •
  <a href="#status">Status</a> •
